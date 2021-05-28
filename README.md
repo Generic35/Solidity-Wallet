@@ -1,4 +1,4 @@
-# SolidityWallet
+# Solidity smart contact wallet
 
 An Ethereum smart contract wallet coded in solidity
 
