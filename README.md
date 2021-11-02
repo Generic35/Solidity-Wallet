@@ -8,6 +8,6 @@ It then allows this owner to allocate an allowance to another address in the wal
 
 This address can then come widthraw the amount.
 
-Events are emited when each of these events occur.
+Events are emited when each of these transactions occur.
 
 The contract checks if the sender is autorized and also checks for safe math to avoir wrap arounds.
